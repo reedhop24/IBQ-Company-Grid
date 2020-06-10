@@ -1,8 +1,8 @@
-import React from 'react';
-import './App.css';
+import React from 'src/node_modules/react';
+import 'src/App.css';
 import GridContainer from './components/grid';
 import Select from './components/select';
-import axios from 'axios'
+import axios from 'src/node_modules/axios'
 
 export default class GridApp extends React.Component {
   constructor() {

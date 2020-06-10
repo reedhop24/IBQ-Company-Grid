@@ -1,7 +1,7 @@
-import React from 'react';
-import {Container, Row, Col} from 'react-bootstrap';
-import Image from 'react-image-resizer';
-var imageCheck = require('../images/check-icon-vector-10850982.jpg');
+import React from 'src/components/node_modules/src/components/node_modules/react';
+import {Container, Row, Col} from 'src/components/node_modules/react-bootstrap';
+import Image from 'src/components/node_modules/react-image-resizer';
+var imageCheck = require('src/images/check-icon-vector-10850982.jpg');
 var companyImage;
 const GridContainer = (props) => {
         const availableProducts = ['Personal Auto', 'Personal Home', 'Commercial BOP', 'Commercial BAP', 'Commercial WC'];

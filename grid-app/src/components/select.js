@@ -1,5 +1,5 @@
-import React from 'react';
-import '../style/style.css';
+import React from 'src/components/node_modules/src/components/node_modules/react';
+import 'src/components/node_modules/src/style/style.css';
 
 const Select = (props) => {
     
